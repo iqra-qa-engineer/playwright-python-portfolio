@@ -1,0 +1,13 @@
+# Virtual Environment
+venv/
+
+# Environment Variables
+.env
+
+# Company Confidential Files - NDA
+Storecms_Login.py
+Storecmslogin.png
+
+# Python cache
+__pycache__/
+*.pyc
